@@ -1,6 +1,6 @@
 # rk2023-data
 
-This is official election data converted into somewhat more usable JSON formats than presented at [opendata.valimised.ee](https://opendata.valimised.ee/en) and calculations of hypothetical election results [only with the electronic votes](https://github.com/infoaed/rk2023-data/blob/main/elected-2023-e.csv) and [only with paper ballots](https://github.com/infoaed/rk2023-data/blob/main/elected-2023-p.csv). The results for two voting mehtods are hugely different.
+This is official election data converted into somewhat more usable JSON formats than presented at [opendata.valimised.ee](https://opendata.valimised.ee/en) and calculations of hypothetical election results [only with the electronic votes](https://github.com/infoaed/rk2023-data/blob/main/elected-2023-e.csv) and [only with paper ballots](https://github.com/infoaed/rk2023-data/blob/main/elected-2023-p.csv). The results for two voting methods are hugely different.
 
 This dataset is mostly a byproduct of a blog post about [digital divide in 2023 election results in Estonia](https://gafgaf.infoaed.ee/en/posts/great-divide-in-evoting/).
 
